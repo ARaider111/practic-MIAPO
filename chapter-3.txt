@@ -1,1 +1,2 @@
-:(prosto chapter 3. prosto text.
+:(prosto chapter 3. prosto text. :) Prosto chapter 3. prosto text.
+
